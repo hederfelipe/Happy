@@ -1,4 +1,5 @@
 <p align="center">
+  <style backgroud-color="blac"><\style>
   <img src="https://nextlevelweek.com/_next/static/images/sobre-nlw-c276936aac34bf32e6d4c287b0ec4a3b.svg" width="150" style="max-width:100%;">
 </p>
 <h2>
