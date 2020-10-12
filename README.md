@@ -1,7 +1,7 @@
 <p align="center">
  
  
-  <img color:red src="https://nextlevelweek.com/_next/static/images/sobre-nlw-c276936aac34bf32e6d4c287b0ec4a3b.svg" width="150" style="max-width:100%;">
+  <img  src="https://nextlevelweek.com/_next/static/images/sobre-nlw-c276936aac34bf32e6d4c287b0ec4a3b.svg" width="150" style="max-width:100%;">
 </p>
 <h2>
   <a id="user-content--índice" class="anchor" aria-hidden="true" href="#-índice">
