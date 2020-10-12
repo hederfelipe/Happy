@@ -1,13 +1,13 @@
 <p align="center">
  
  <style rel="stylesheet">/>
-  body { background-color: #cff; }
-  h2 { background-color: #f00; }  
-  p { background-color: #0f0; }    
-</style>
+  heady { background-color: #cff; }
+  
+
 </head>
   <img src="https://nextlevelweek.com/_next/static/images/sobre-nlw-c276936aac34bf32e6d4c287b0ec4a3b.svg" width="300" style="max-width:100%;">
 </p>
+</style>
 <h2>
   <a id="user-content--índice" class="anchor" aria-hidden="true" href="#-índice">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
