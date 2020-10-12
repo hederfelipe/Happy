@@ -1,9 +1,9 @@
 <p align="center">
  
  <style rel="stylesheet">/>
-  body { background-color: #cff; } /*azul claro*/
-  h2 { background-color: #f00; }   /* vermelho */
-  p { background-color: #0f0; }    /*  verde   */
+  body { background-color: #cff; }
+  h2 { background-color: #f00; }  
+  p { background-color: #0f0; }    
 </style>
 </head>
   <img src="https://nextlevelweek.com/_next/static/images/sobre-nlw-c276936aac34bf32e6d4c287b0ec4a3b.svg" width="300" style="max-width:100%;">
