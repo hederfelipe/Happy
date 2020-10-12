@@ -34,7 +34,7 @@
   <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre
 </h2>
   <pNext Level Week<strong><a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #3</a></strong>
-  , realizada pela <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> durante os dias 3 à 9 de Agosto de 2020.
+  , realizada pela <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong>12 a 18 de outubro
 <hr></hr>
 
 <h2>
@@ -72,11 +72,8 @@
 </h2>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60014586/89923055-5a23c780-dbd6-11ea-9166-ae9376451fcf.png">
-  <img src="https://user-images.githubusercontent.com/60014586/89923382-e2a26800-dbd6-11ea-87ed-db3035d48c13.png">
-  <img src="https://user-images.githubusercontent.com/60014586/89923666-4d53a380-dbd7-11ea-88a3-e662f7bc0893.png">
-  <img src="https://user-images.githubusercontent.com/60014586/89923671-4f1d6700-dbd7-11ea-9a27-13c960640b03.png">
-  <img src="https://user-images.githubusercontent.com/60014586/89923677-504e9400-dbd7-11ea-92a3-9329ba294404.png">
+  <img src="https://nextlevelweek.com/_next/static/images/bootcamp-4721b335e139c9f4f75f1f31b5567af5.svg">
+ 
   <br>
   Desenvolvido por HEDER FELIPE
   </p>
