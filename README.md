@@ -75,7 +75,7 @@
 </h2>
 </p>
 <p align="center">
-  <img src="https://nextlevelweek.com/_next/static/images/bootcamp-4721b335e139c9f4f75f1f31b5567af5.svg">
+  <img src="https://rocketseat.com.br/g">
  
   <br>
   Desenvolvido por HEDER FELIPE
